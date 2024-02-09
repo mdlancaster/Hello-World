@@ -2,9 +2,9 @@
 This repository is to practice the GitHub Flow. 
 
 # Table of Contents
-1. [About-Myself](About-Myself)
-2. [Current-Technical-Skills](Current-Technical-Skills)
-3. [Origin-of-Repository](Origin-of-Repository)
+1. [About Myself](About-Myself)
+2. [Current Technical Skills](Current-Technical-Skills)
+3. [Origin of Repository](Origin-of-Repository)
    
 
 ## About Myself

@@ -14,7 +14,8 @@ My name is Matt Lancaster, and I am a current student at the University of Iowa 
 
 ## GitHub Knowledge
 With almost no prior knowledge, I have began to learn the ins and outs of GitHub as both a collaboration tool and a platform to showcase technical skills. Specifically, I have utilized GitHub in the courses listed below:
-   *Computational Thinking*: Utilized GitHub as a Code Editor in conjunction with Cengage MindTap to complete various Python coding exercises.
-   *Business Analytics Professional Preparation Course*: Personalized my account, created my first repository, and obtained a LinkedIn Learning Certificate in crafting a proficient GitHub profile as shown [here](file:///Users/mattlancaster/Desktop/BAIS%20Pro%20Prep/CertificateOfCompletion_Craft%20a%20Great%20GitHub%20Profile.pdf).
+- *Computational Thinking*: Utilized GitHub as a Code Editor in conjunction with Cengage MindTap to complete various Python coding exercises.
+- *Business Analytics Professional Preparation Course*: Personalized my account, created my first repository, and obtained a LinkedIn Learning Certificate in crafting a proficient GitHub profile as shown here: [CertificateOfCompletion_Craft a Great GitHub Profile.pdf](https://github.com/mdlancaster/Hello-World/files/14285509/CertificateOfCompletion_Craft.a.Great.GitHub.Profile.pdf)
+
 
 

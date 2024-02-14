@@ -7,10 +7,10 @@ This repository is to practice the GitHub Flow.
 3. [GitHub Knowledge](GitHub-Knowledge)
    
 ## Origin of Repository
-This repository is the product of a Business Analytics Professional Preparation Course. It's aim is to help our understanding of the GitHub platform and to practice the process of creating a repository.
+This repository is the product of a Business Analytics Professional Preparation Course. Its aim is to help our understanding of the GitHub platform and to practice the process of creating a repository.
 
 ## About Myself
-My name is Matt Lancaster, and I am a current student at the University of Iowa (**Go Hawks!**) studying Finance and Business Analytics. Outside the classroom, I enjoy watching both professional and college athletics (especially the Chiefs as I'm originally from Kansas City), working out, and spending time with friends and family. Inside the classroom, my interests span from statistical data analysis to financial management and investment. 
+My name is Matt Lancaster, and I am a current student at the University of Iowa (**Go Hawks!**) studying Finance and Business Analytics. Outside the classroom, I enjoy watching both professional and college athletics (especially the Chiefs, as I'm originally from Kansas City), working out, and spending time with friends and family. Inside the classroom, my interests span from statistical data analysis to financial management and investment. 
 
 ## GitHub Knowledge
 With almost no prior knowledge, I have began to learn the ins and outs of GitHub as both a collaboration tool and a platform to showcase technical skills. Specifically, I have utilized GitHub in the courses listed below:
